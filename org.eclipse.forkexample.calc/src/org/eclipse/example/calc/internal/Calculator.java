@@ -20,6 +20,7 @@ import org.eclipse.example.calc.internal.operations.Square;
 
 public class Calculator {
     // Kommentar für Branch masterGitHub
+    // und jetzt für Commit and Push
     private final TextProvider textProvider;
 
     private String cmd;
